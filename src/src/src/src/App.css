@@ -1,0 +1,13 @@
+/* Custom styles */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  background-color: #ef4444;
+  border: none;
+  height: 18px;
+  width: 18px;
+  border-radius: 9999px;
+  cursor: pointer;
+}
